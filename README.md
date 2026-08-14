@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2gwZDVid3MxbDhoOGFqOHN3amZ0ZWdoNWRqMjN4YXpkajV5aHhkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1D9WiOty6cWbrb9Qmq/giphy.gif" width="100%" />
+  <img src="./assets/gif.gif" width="100%" />
 </p>
 
 # Rois Alfian
