@@ -11,8 +11,6 @@
 
 ### GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m4lf-4dream&theme=tokyonight)
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=m4lf-4dream&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=m4lf-4dream&theme=tokyonight" />
