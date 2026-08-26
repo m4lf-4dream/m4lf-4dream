@@ -78,4 +78,5 @@
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 ### Partner
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white) ![Z.ai](https://img.shields.io/badge/Z.ai-000000?style=for-the-badge&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Z.ai](https://img.shields.io/badge/Z.ai-000000?style=for-the-badge&logo=zai&logoColor=white)
