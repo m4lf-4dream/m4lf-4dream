@@ -3,7 +3,7 @@
 </p>
 
 # Rois Alfian
-
+[![Instagram](https://img.shields.io/badge/@roisalfiann-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/roisalfiann)
 ### Pelajar 
 
 <br>
@@ -79,4 +79,8 @@
 
 ### Partner
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)  
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) 
+![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=github&logoColor=white)  
 ![Z.ai](https://img.shields.io/badge/Z.ai-000000?style=for-the-badge&logo=zai&logoColor=white)
